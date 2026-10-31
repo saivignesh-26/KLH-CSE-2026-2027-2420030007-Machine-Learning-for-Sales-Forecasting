@@ -1,0 +1,8 @@
+{
+    "Random_Forest_Weight": 0.4517137435903984,
+    "XGBoost_Weight": 0.5482862564096017,
+    "Random_Forest_Validation_RMSE": 1759.4806483827795,
+    "XGBoost_Validation_RMSE": 1449.5741616074702,
+    "Random_Forest_Validation_MAE": 1104.6842869425748,
+    "XGBoost_Validation_MAE": 949.279541015625
+}

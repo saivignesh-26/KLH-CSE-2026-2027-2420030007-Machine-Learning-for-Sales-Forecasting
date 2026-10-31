@@ -1,1 +1,14 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
 
+# Large datasets
+data/raw/olist/olist_geolocation_dataset.csv
+data/processed/rossmann_processed.csv
+
+# Large trained models
+models/random_forest.pkl
+
+# Environment files
+.env

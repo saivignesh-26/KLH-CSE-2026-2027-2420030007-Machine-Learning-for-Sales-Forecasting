@@ -1,0 +1,16 @@
+{
+    "Base_Model": "XGBoost",
+    "Residual_Model": "Random Forest",
+    "Base_Training_Rows": 150000,
+    "Residual_Training_Rows": 203442,
+    "Final_Test_Rows": 203442,
+    "Formula": "Final Prediction = XGBoost Prediction + Residual Correction",
+    "XGBoost_MAE": 929.158935546875,
+    "XGBoost_RMSE": 1370.5742865674958,
+    "XGBoost_MAPE": 16.239845564844273,
+    "XGBoost_R2": 0.8742334842681885,
+    "Hybrid_MAE": 884.9668056142217,
+    "Hybrid_RMSE": 1316.909379900018,
+    "Hybrid_MAPE": 15.200173839146878,
+    "Hybrid_R2": 0.8838894738903051
+}

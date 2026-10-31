@@ -1,0 +1,6 @@
+{
+    "Random_Forest_Weight": 0.03,
+    "XGBoost_Weight": 0.97,
+    "Validation_RMSE": 1449.254062929365,
+    "Formula": "Hybrid = RF_Weight * RF + XGB_Weight * XGB"
+}
